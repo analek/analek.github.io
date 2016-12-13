@@ -18,3 +18,16 @@ h1 {
 	color: black
 	font-size: 32px;
 }
+
+#nav {
+width: 580px;
+padding: 10px;
+margin: 0px auto 0px auto;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+}
+li #nav
+{
+display: inline;
+margin 0px 3px;
+}

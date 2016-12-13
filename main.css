@@ -20,6 +20,7 @@ h1 {
 }
 
 #nav {
+word-spacing: 1em;
 width: 580px;
 padding: 10px;
 margin: 0px auto 0px auto;
@@ -29,7 +30,6 @@ border-bottom: 1px solid black;
 #nav li {
 text-align: justify;
 text-justify: inter-word;
-word-spacing: 1em;
 display: inline;
 margin 0px 3px;
 }

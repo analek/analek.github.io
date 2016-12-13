@@ -9,6 +9,10 @@ body {
   	text-align: center;
 }
 
+.logo {
+	image-orientation: center;
+}
+
 h1 {
 	color: black
 	font-size: 32px;

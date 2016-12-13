@@ -29,6 +29,7 @@ border-bottom: 1px solid black;
 #nav li {
 text-align: justify;
 text-justify: inter-word;
+word-spacing: 1em;
 display: inline;
 margin 0px 3px;
 }

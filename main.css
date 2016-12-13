@@ -27,6 +27,7 @@ border-top: 1px solid black;
 border-bottom: 1px solid black;
 }
 #nav li {
+text-align: justify;
 display: inline;
 margin 0px 3px;
 }

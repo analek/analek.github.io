@@ -28,6 +28,7 @@ border-bottom: 1px solid black;
 }
 #nav li {
 text-align: justify;
+text-justify: inter-word;
 display: inline;
 margin 0px 3px;
 }

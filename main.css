@@ -1,11 +1,12 @@
 html, body {
 	margin: 0;
+	/* cursor: url(gif/cursor.png), auto; *//*zmienia kursor na kutasa*/
 }
 
 body {
-	background-color: #ffffff;
-	font-family: Helvetica, Arial, sans-serif;
-  	text-align: center;
+background-color: #ffffff;
+font-family: 'Raleway', sans-serif;
+text-align: center;
 }
 
 .logo {
@@ -27,18 +28,22 @@ border-top: 1px solid black;
 border-bottom: 1px solid black;
 }
 #nav li {
-text-align: justify;
-text-justify: inter-word;
+font-size: 1.25rem;
+font-family: Helvetica;
+justify-content: space-around;
 display: inline;
-margin 0px 3px;
+margin-left: 50px;
+margin-right: 50px;
 }
+
 #nav li a {
 color: #000000;
 text-decoration: none;
 }
-#nav li a:hover {
+# nav li a:hover {
 color: #cc3333;
 }
+
 .footer {
 position: absolute;
 right: 0;

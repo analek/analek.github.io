@@ -30,10 +30,10 @@ border-bottom: 1px solid black;
 display: inline;
 margin 0px 3px;
 }
-a {
+#nav li a {
 color: #000000;
 text-decoration: none;
 }
-a:hover {
+#nav li a:hover {
 color: #cc3333;
 }

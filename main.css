@@ -11,6 +11,8 @@ body {
 
 .logo {
 	image-orientation: center;
+	width: 75%;
+	height: 75%;
 }
 
 h1 {

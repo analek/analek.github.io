@@ -39,3 +39,7 @@ text-decoration: none;
 #nav li a:hover {
 color: #cc3333;
 }
+.footer {
+position: absolute;
+padding: 1rem;
+}
